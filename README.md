@@ -1,3 +1,6 @@
+> <h1>⚠️ Old version of the project ⚠️</h1>
+> <h2>This repositorie and this project version has been deprecated, the new version is now here: https://github.com/pterobilling/pterobilling</h2>
+
 <div align="center">
     <img src="https://raw.githubusercontent.com/pterobilling/pterobilling/master/.github/icon_blue.png" alt="PteroBilling" width="150px">
     <h1>PteroBilling</h1>
